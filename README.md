@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Scraping and E-commerce**
 
-- 🌱 I’m currently learning **Penetration Testing, Python, JavaScript, NodeJS, E-commerce Specialist, Advertising Strategies**
 
 - 📝 I regularly write articles on [https://medium.com/@yavuz.veli.11](https://medium.com/@yavuz.veli.11)
 
-- 💬 Ask me about **Python, Penetration Test, Advertising Strategies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
