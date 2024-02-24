@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veli Yavuz</h1>
-<h3 align="center">A passionate E-commerce Specialist | Penetration Tester | Software Developer</h3>
+<h3 align="center">A passionate Devops | Penetration Tester | Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11yavuz11" alt="11yavuz11" /></a> </p>
 
